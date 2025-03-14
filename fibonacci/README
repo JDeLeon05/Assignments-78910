@@ -1,0 +1,5 @@
+If you are using powershell, simply enter "Java --enable-preview -jar BubbleSort.jar" and it should work
+Function is computed as an f(n) sequence, simply enter the command and after it the number of terms you'd like for the sequence
+for example, if you wanted to know the 3rd term(or f(3)), simply enter "3" after BubbleSort.jar in the command line
+In case jar file doesn't work use java file and inform me
+MANIFEST.MF file is needed for powershell
